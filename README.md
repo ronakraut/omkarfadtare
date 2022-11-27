@@ -2,9 +2,9 @@
 <h1 align="center">Hi there, I'm Omkar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### About Me :
-- :telescope: I’m currentling working on Machine learning project.
+- :telescope: I’m currently working on Machine learning project.
 - 🌱 Exploring Computer vision.
-- ⚡ In my free time I explore new technologies, read tech blogs.
+- ⚡ In my free time I love to watch Podcasts.
 
 ### Languages and Tools :
 
